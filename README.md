@@ -2,11 +2,21 @@
 
 10 years making concrete decisions with incomplete information as a professional poker player. 8 years turning that into production systems. The math doesn't care how you feel about the hand.
 
-## What I Build Now
+## What I Build
 
-**[Rezzed AI](https://github.com/rezzedai)** — Open-source developer tools for AI-assisted engineering. Policy engines, voice detection, task persistence, autonomous execution monitoring. Six tools, all tested, all shipped.
+**[@rezzedai](https://github.com/rezzedai)** — Open-source developer tools for AI-assisted engineering.
 
-**CacheBash** — Production MCP server with 16 tools, AES-256 encryption, custom HTTP transport, Flutter mobile app. Built for async AI-human collaboration when the operator is away from the terminal. [View the architecture →](https://github.com/feelgreatfoodie/cachebash-v2)
+| Tool | What it does |
+|------|-------------|
+| **[Voicekeeper](https://github.com/rezzedai/voicekeeper)** | AI writing detector + voice matcher. 38 patterns, 6 categories. [Try it free →](https://chatgpt.com/g/g-69936f8589788191b347117e4d74f354-my-voice-proofreader) |
+| **[CacheBash](https://github.com/feelgreatfoodie/cachebash-v2)** | Async dispatch for AI agent networks. MCP server, mobile app, encrypted relay. |
+| **[Guardian](https://github.com/rezzedai/guardian)** | Safety rails + audit trail for Claude Code sessions. |
+| **[Dreamwatch](https://github.com/rezzedai/dreamwatch)** | Overnight autonomous execution with budget caps and git isolation. |
+| **[Dispatch](https://github.com/rezzedai/dispatch)** | Lightweight MCP task server. Create, claim, complete. |
+| **[SpecFirst](https://github.com/rezzedai/specfirst)** | Plan-before-build with confidence scoring. |
+| **[xFetch](https://github.com/rezzedai/xfetch)** | Social media content extraction. No API keys, no rate limits. |
+
+Seven tools. All shipped. All open source.
 
 ## What I've Shipped
 
@@ -14,13 +24,13 @@
 |--------|-------|
 | Data pipelines | 60M+ records/day across GCP and AWS, 99.9% uptime |
 | Attribution | Probabilistic models informing $10M+ media allocation decisions |
-| Agent systems | Autonomous multi-model orchestration (Opus + Sonnet) |
+| Agent systems | Multi-model orchestration running autonomously overnight |
 | MCP infrastructure | 16-tool server with encryption, auth, real-time mobile sync |
 | Team building | 8 engineers mentored, 75% promotion rate in 18 months |
 
 ## The Stack
 
-`Claude API` · `Gemini` · `MCP` · `TypeScript` · `Python` · `Dart/Flutter` · `GCP` · `Cloud Run` · `BigQuery` · `Firestore` · `Vertex AI` · `FastAPI` · `React` · `Node.js`
+`Claude API` · `MCP` · `TypeScript` · `Python` · `Dart/Flutter` · `GCP` · `Cloud Run` · `BigQuery` · `Firestore` · `Vertex AI` · `FastAPI` · `React` · `Node.js`
 
 ## The Throughline
 
@@ -30,7 +40,7 @@ I build systems that produce good results repeatedly. Whether that's a data pipe
 
 ## Currently
 
-Principal Architect at Three Bears Data. Building OptiMeasure (cookieless multi-touch attribution) and shipping open-source AI tools at [@rezzedai](https://github.com/rezzedai). More coming.
+Principal Architect at Three Bears Data. Shipping open-source AI tools at [@rezzedai](https://github.com/rezzedai). More coming.
 
 ---
 
