@@ -40,7 +40,8 @@ I build systems that produce good results repeatedly. Whether that's a data pipe
 
 ## Currently
 
-Principal Architect at Three Bears Data. Shipping open-source AI tools at [@rezzedai](https://github.com/rezzedai). More coming.
+Founder and Principal Architect at Rezzed.ai - Shipping open-source AI tools at [@rezzedai](https://github.com/rezzedai). More coming...  
+Co-Founder and Principal Architect at Three Bears Data - Delivering clear, actionable insights on your marketing data through [@optimeasure.io](https://www.optimeasure.io/).
 
 ---
 
